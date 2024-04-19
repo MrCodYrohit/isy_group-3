@@ -1,0 +1,22 @@
+body {
+    background-color: #333333; /* Dark grey color */
+  }
+  
+  .container {
+    position: relative;
+  }
+  
+  .container::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('../img_logo.png'); /* Path to your logo image */
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    opacity: 0.2; /* Adjust the opacity to make the image more or less transparent */
+    z-index: -1; /* Place the image behind the content */
+  }
