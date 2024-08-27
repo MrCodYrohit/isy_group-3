@@ -1,4 +1,4 @@
-Here's a sample README file for your project:
+
 
 ---
 
@@ -115,10 +115,8 @@ This project is a full-stack web application built using the MERN stack. The app
 
 Contributions are welcome! Please open an issue or submit a pull request for any changes or improvements.
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ---
 
-This README file provides an overview of the project, features, setup instructions, and additional details for contributing and licensing.
+
