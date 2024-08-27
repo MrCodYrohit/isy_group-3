@@ -4,7 +4,7 @@
 
 # CareerSync
 
-Demo Link: <Link>(https://www.google.com/url?q=https://isy-group-3.onrender.com/&sa=D&source=docs&ust=1724787631923166&usg=AOvVaw1i7LhXc7brhcUcVFDi7gSm)
+Demo Link: [Link](https://www.google.com/url?q=https://isy-group-3.onrender.com/&sa=D&source=docs&ust=1724787631923166&usg=AOvVaw1i7LhXc7brhcUcVFDi7gSm)
 
 ## Overview
 
